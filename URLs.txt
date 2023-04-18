@@ -1,0 +1,6 @@
+S3 bucket URL
+	http://first-bucket-5930.s3-website-us-east-1.amazonaws.com
+
+
+CloudFront domain name
+	https://d1frsmgt9h5zzz.cloudfront.net
